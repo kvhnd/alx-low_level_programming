@@ -1,10 +1,13 @@
 #include <stdio.h>
+/**
+ * main - Entry
+ *
+ * Retrun:Always 0 (Success)
+ */
+int main(void)
+{
+	puts("\"Programming is like building a multilingual puzzle");
 
-int main ()
-{	
-	char str1[] = "Programming is like building a multilingual puzzle";
 
-	puts(str1);
-
-	return 0;
+	return (0);
 }

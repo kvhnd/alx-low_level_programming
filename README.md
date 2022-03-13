@@ -1,1 +1,1 @@
-This repo contains introduction to c programming concepts
+This repo contains scripts on introduction to low level programming with c

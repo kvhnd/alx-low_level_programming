@@ -1,1 +1,1 @@
-This repo contains exercise on low level programming with  C.
+This repo contains introduction to c programming concepts

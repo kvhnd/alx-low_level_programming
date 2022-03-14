@@ -2,7 +2,10 @@
 /**
  * main - Entry
  *
- * Retrun:Always 0 (Success)
+ * Description: prints "Programming is like building a multilingual
+ * puzzle", followed by a new line
+ *
+ * Return:Always 0 (Success)
  */
 int main(void)
 {

@@ -7,7 +7,7 @@
  * Description: assigns a random number to the variable n each time
  * it is executed
  *
- * Return : 0 (Success)
+ * Return : 0(Success)
  **/
 int main(void)
 {

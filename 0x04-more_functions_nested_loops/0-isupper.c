@@ -4,7 +4,7 @@
  * _isupper - checks for uppercase
  * @c: character input
  * Description: Checks for upper case character
- * 
+ *
  * Return: returns 1 if character is uppercase and 0 if otherwise
  *
  **/

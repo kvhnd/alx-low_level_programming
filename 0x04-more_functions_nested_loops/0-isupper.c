@@ -10,16 +10,17 @@
  **/
 int _isupper(int c)
 {
-	char upperc = 'A';
-	int check;
+        char upperc = 'A';
+        int check;
 
-	for (; upperc <= 'Z'; upperc++)
-	{
-		if (c == upperc)
-			check = 1;
-		else
-			check = 0;
-	}
+        for (; upperc <= 'Z'; upperc++)
+        {
+                if (c == upperc)
+                        check = 1;
+                else
+                        check = 0;
+        }
 
-	return (check);
+        return (check);
 }
+

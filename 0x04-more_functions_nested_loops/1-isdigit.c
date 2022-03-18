@@ -18,7 +18,7 @@ int _isdigit(int c)
 	{
 		if (i++ == c)
 			check = 1;
-			break;
+
 
 
 	}

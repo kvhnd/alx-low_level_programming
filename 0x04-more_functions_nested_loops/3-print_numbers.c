@@ -1,5 +1,5 @@
 #include "main.h"
-int _putchar(char c);
+#include "_putchar.c"
 
 /**
  * print_numbers - prints numbers

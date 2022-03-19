@@ -1,5 +1,5 @@
 #include "main.h"
-#include "4-main.c"
+
 /**
  * print_most_numbers - prints numbers between 0-9
  *

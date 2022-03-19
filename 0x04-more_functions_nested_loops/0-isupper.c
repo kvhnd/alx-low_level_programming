@@ -13,7 +13,7 @@ int _isupper(int c)
 	int i;
 	int check = 0;
 
-	for (i = 65; i <= 91; i++)
+	for (i = 65; i <= 90; i++)
 	{
 		if (c == i)
 			check = 1;

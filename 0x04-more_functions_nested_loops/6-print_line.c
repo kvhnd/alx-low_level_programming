@@ -1,9 +1,9 @@
 #include "main.h"
-#include "6-main.c"
-#include "_putchar.c"
+
+
 /**
 * print_line - prints line
-* @n: input integer 
+* @n: input integer
 * Description: Draws a straight line on the terminal
 *
 *Return: 0 success

@@ -11,7 +11,6 @@
 int main(void)
 {
 	int num;
-	char Fizz, Buzz, FizzBuzz;
 
 	for (num = 1; num <= 100; num++)
 	{

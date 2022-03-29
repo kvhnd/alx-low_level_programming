@@ -15,7 +15,7 @@ void puts2(char *str)
 	while
 	(c >= 0)
 	{
-	if  (str[c] == '\0')
+		if  (str[c] == '\0')
 		break;
 		c++;
 		len++;
@@ -25,7 +25,7 @@ void puts2(char *str)
 	for (; c % 2 == 0; c++)
 	{
 		_putchar(str[c]);
-		if (c <= len)
+		if (c <= temp)
 		break;
 	}
 	_putchar('\n');

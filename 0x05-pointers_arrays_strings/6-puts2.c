@@ -10,7 +10,7 @@
 **/
 void puts2(char *str)
 {
-	int c = 0, len = 0, temp;
+	int c = 0, len = 0;
 
 	while
 	(c >= 0)
@@ -18,15 +18,10 @@ void puts2(char *str)
 		if  (str[c] == '\0')
 		break;
 		c++;
-		len++;
 	}
-	temp = len;
-
-	for (; c % 2 == 0; c++)
+	for (; len < c; len += 2)
 	{
 		_putchar(str[c]);
-		if (c <= temp)
-		break;
 	}
 	_putchar('\n');
 }

@@ -20,7 +20,8 @@ void puts2(char *str)
 		c++;
 		len++;
 	}
-	temp = len
+	temp = len;
+
 	for (; c % 2 == 0; c++)
 	{
 		_putchar(str[c]);
